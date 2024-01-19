@@ -1,0 +1,23 @@
+# Compiler files
+cache/
+out/
+
+# Ignores development broadcast logs
+!/broadcast
+/broadcast/*/31337/
+/broadcast/**/dry-run/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+
+.wake-build
+.wake-logs
+pytypes
+__pycache__/
+*.py[cod]
+.hypothesis/
+wake-coverage.cov
+.wake

@@ -1,0 +1,22 @@
+{
+  "name": "wake_tests_examples",
+  "version": "0.0.1",
+  "description": "Explore practical examples with Wake: Integrate ready-to-use ERC tests into your Solidity projects.",
+  "author": "Ackee Blockchain",
+  "license": "ISC",
+  "devDependencies": {
+    "@boringcrypto/boring-solidity": "github:boringcrypto/BoringSolidity",
+    "@openzeppelin/contracts": "^5.0.0",
+    "solady": "^0.0.143",
+    "solmate": "^6.2.0"
+  },
+  "keywords": [
+    "wake",
+    "solidity",
+    "security",
+    "testing",
+    "static-analysis",
+    "blockchain",
+    "smart-contracts"
+  ]
+}
