@@ -25,7 +25,7 @@ Test suites implement two types of tests: **unit tests** and **fuzz tests**. Uni
 
 ### ERC-20
 
-ERC-20 tests are fully implemented. Test suites are inspired by [Runtime Verification's ERC-20 tests](https://ercx.runtimeverification.com/whats-being-tested?standard=erc-20). A comprehensive example of how to use the test suite as well as the comprehensive documentation can be found in [examples/erc20](/examples/erc20/).
+ERC-20 tests are fully implemented. Test suites are inspired by [Runtime Verification's ERC-20 tests](https://ercx.runtimeverification.com/whats-being-tested?standard=erc-20). A comprehensive example of how to use the test suite as well as the comprehensive documentation can be found in [examples/erc20](https://github.com/Ackee-Blockchain/wake-tests/tree/master/examples/erc20/).
 
 ### Other Standards
 
