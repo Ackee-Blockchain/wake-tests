@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "eth-wake-tests"
-version = "0.0.1"
+version = "0.1.0"
 description = "Generic tests for common Ethereum standards utilizing Wake."
 license = "ISC"
 authors = ["Ackee Blockchain"]
