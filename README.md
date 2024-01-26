@@ -1,4 +1,4 @@
-# ERC Tests for Wake
+# Tests for Wake
 
 ![horizontal splitter](https://github.com/Ackee-Blockchain/wake-detect-action/assets/56036748/ec488c85-2f7f-4433-ae58-3d50698a47de)
 
@@ -7,7 +7,7 @@ This Python package implements ready-to-use Python tests for the most common ERC
 ## Dependencies
 
 - Python (version 3.8 or higher)
-- Wake (version 4.0.0 or higher)
+- Wake (version 4.3.2 or higher)
 
 ## Installation
 
