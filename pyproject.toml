@@ -17,6 +17,9 @@ keywords = [
     "framework",
     "audit",
 ]
+packages = [
+    { include = "wake_tests", from="src" },
+]
 
 [tool.poetry.dependencies]
 python = "^3.8"
