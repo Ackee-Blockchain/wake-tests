@@ -14,7 +14,7 @@ This Python package implements ready-to-use Python tests for the most common ERC
 The installation is simple. Just run the following command:
 
 ```bash
-pip install eth_wake_tests
+pip3 install eth-wake-tests
 ```
 
 This will also install `eth-wake` in case you don't have it installed already.
@@ -23,7 +23,7 @@ This will also install `eth-wake` in case you don't have it installed already.
 
 Test suites implement two types of tests: **unit tests** and **fuzz tests**. Unit tests are used to test individual functions and methods. Fuzz tests are used to test functions with random inputs. Fuzz tests are useful for finding bugs in functions that are not covered by unit tests.
 
-### ERC-20 
+### ERC-20
 
 ERC-20 tests are fully implemented. Test suites are inspired by [Runtime Verification's ERC-20 tests](https://ercx.runtimeverification.com/whats-being-tested?standard=erc-20). A comprehensive example of how to use the test suite as well as the comprehensive documentation can be found in [examples/erc20](/examples/erc20/).
 
