@@ -14,7 +14,7 @@ This Python package implements ready-to-use Python tests for the most common ERC
 The installation is simple. Just run the following command:
 
 ```bash
-pip install wake_tests
+pip install eth_wake_tests
 ```
 
 This will also install `eth-wake` in case you don't have it installed already.
